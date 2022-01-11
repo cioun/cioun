@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cioun
+- 👀 I’m interested in contributing to open source communities.
+- 💞️ I’m looking to collaborate on projects related to video and image editing.
+- 📫 Interested to work with me ? Reach me here cloud@backium.co
